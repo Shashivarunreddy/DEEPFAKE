@@ -1,4 +1,4 @@
-# TrueVision - DeepFake Detection
+# DeepSynth - DeepFake Detection
 
 A DeepFake Detection Web Application using Deep Learning (ResNext and LSTM), Flask, and React that predicts whether a video is FAKE or REAL along with a confidence ratio.
 
@@ -91,4 +91,5 @@ DeepFake-Detection/
 ## Acknowledgments
 
 - Celeb-DF dataset
+- faceforesic++ dataset
 - DeepFake++ detection implementation
