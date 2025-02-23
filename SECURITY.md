@@ -2,20 +2,17 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+python 3.10 version only supports the libraries of machine learning like tensorflow and keras 
+using these python libraries and other frameworks using with flask app , we are using date of sql is sqlalchemy 
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+Mostly we wont find the older version online , so ill provide python 3.10
 
-## Reporting a Vulnerability
+| Version    | Supported          |
+| -------    | ------------------ |
+|python 3.08 | tensorflow         |
+|python 3.09 | tensorflow & kera  |
+|python 3.10 | tensorflow & kera  | https://www.python.org/downloads/release/python-3100/ | i recommand to install this 
+|python 3.11 | tensorflow & kera  |
 
-Use this section to tell people how to report a vulnerability.
+install flask and other dependencies via pip 
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
